@@ -1,3 +1,4 @@
+![Dashboard](Pizza%20Dashboard.png)
 # 🍕 Pizza Sales Dashboard
 
 An interactive Excel dashboard analyzing pizza sales data to uncover key business insights.
