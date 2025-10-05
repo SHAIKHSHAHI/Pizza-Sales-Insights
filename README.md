@@ -5,7 +5,8 @@ It highlights total revenue, average order value, top-selling pizzas, and custom
 Built using Pivot Tables, Charts, and Slicers to visualize performance and identify the best and worst-selling pizzas effectively.
 
 # Problem Statement
-![Problem1](Problem%20Statement%202.png)
+![Problem1](Problem%20Statement.png)
+![Problem2](Problem%20Statement%202.png)
 ![Problem3](Problem%20Statement%203.png)
 # 🎯 Objectives
 
