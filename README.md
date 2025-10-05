@@ -6,6 +6,7 @@ Built using Pivot Tables, Charts, and Slicers to visualize performance and ident
 
 # Problem Statement
 ![Problem1](Problem%20Statement%202.png)
+![Problem3](Problem%20Statement%203.png)
 # 🎯 Objectives
 
 - Identify the busiest days and hours for pizza orders.
